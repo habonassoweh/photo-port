@@ -1,5 +1,5 @@
 import React from "react";
-import coverImage from "../assets/assets/cover/cover-image.jps";
+import coverImage from "../assets/";
 
 
 
